@@ -1,13 +1,14 @@
 
 ## Redes Sociais
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/https://www.instagram.com/_jaovittor_/)
-[<img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]
+[<img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://instagram.com/https://www.instagram.com/_jaovittor_/)
 [<img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" />](https://open.spotify.com/user/cpoqkscworcz5u47dftx9uf63?si=4ce0963718764afc)
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Jaovicttor&theme=dark&line_height=27">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaovicttor&hide=html,css&theme=dark">
 </p>
+
 
 
 

@@ -1,4 +1,4 @@
-### Hi there 👋
+[! [Estatísticas GitHub de Anurag] (https://github-readme-stats.vercel.app/api ? Username = Jaovicttor)] (https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Jaovicttor/jaovicttor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

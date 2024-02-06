@@ -1,5 +1,4 @@
-## Salve!! Prazer, eu me chamo João Victor.
-
+## Muito prazer, eu me chamo João Victor.
 
 <div>
   <a href="https://github.com/jaovicttor">
